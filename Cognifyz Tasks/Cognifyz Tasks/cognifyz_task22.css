@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.fill{
+    background-color:cornsilk;
+    border-color:burlywood;
+    border-style: rigid;
+    border-width:10px;
+    
+
+}
+label{
+    color:purple;
+    font-weight:bold;
+    margin-left:30px;
+}
+.b1{
+    background-image:linear-gradient(to right,chocolate,coral);
+    color:white;
+    padding:5px;
+    width:120px;
+}
+.color-change{
+    border:none;
+   
+    padding:5px;
+    width:150px;
+
+}
+.first{
+    background-image:linear-gradient(to right,rgb(255, 128, 234),rgb(212, 70, 255));
+    width:800px;
+    height:350px;
+    border-top-left-radius: 35px;
+    border-bottom-right-radius: 35px;
+    margin-left:150px;
+    margin-top:150px;
+    text-align:center;
+    color:lightyellow;
+
+   
+}
+.but1{
+    text-align:center;
+    margin-top:50px;
+}
+.but2{
+    text-align:center
+}
+.hh{
+    color:white;
+    font-family:"Bree Serif";
+    text-align:center;
+    padding-top:20px;
+    
+}
+.aa{
+    margin-top:30px;
+}
+#result{
+   font-size:25px;
+   font-weight:bold;
+   font-family:"Roboto";
+  
+}
